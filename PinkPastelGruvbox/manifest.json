@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "Gruvbox Material Dark Pink",
+  "description": "A pastel pink-purple Gruvbox'ish.",
+  "version": "1.0.0",
+  "theme": {
+    "colors": {
+      "background_tab": [41, 40, 40],
+      "background_tab_inactive": [73, 70, 70],
+
+      "bookmark_text": [221, 199, 161],
+      "bookmark_text_inactive": [221, 199, 161],
+
+      "frame": [41, 40, 40],
+      "frame_inactive": [65, 60, 62],
+
+      "tab_background_separator": [56, 52, 54],
+      "tab_hover": [60, 56, 58],
+      "tab_selection": [50, 48, 47],
+
+      "ntp_background": [41, 40, 40],
+      "ntp_text": [205, 152, 176],
+      "ntp_link": [211, 134, 155],
+      "ntp_link_underline": [211, 134, 155],
+
+      "omnibox_background": [60, 56, 54],
+      "omnibox_text": [228, 208, 174],
+      "omnibox_text_inactive": [180, 165, 145],
+
+      "omnibox_results_bg": [48, 45, 44],
+      "omnibox_results_text": [221, 199, 161],
+      "omnibox_results_text_selected": [41, 40, 40],
+      "omnibox_results_bg_selected": [205, 152, 176],
+
+      "tab_text": [221, 199, 161],
+      "tab_background_text": [156, 138, 122],
+
+      "toolbar": [50, 48, 47],
+      "toolbar_text": [211, 134, 155],
+      "toolbar_button_icon": [211, 134, 155]
+    }
+  }
+}
